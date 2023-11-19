@@ -34,6 +34,7 @@ BuildRequires:	qt%{major}-cmake
 BuildRequires:	cmake(Qt%{major}Quick)
 BuildRequires:	cmake(Qt%{major}Qml)
 BuildRequires:	cmake(Qt%{major}QmlModels)
+BuildRequires:	cmake(Qt%{major}Test)
 BuildRequires:	pkgconfig(gl)
 BuildRequires:	pkgconfig(xkbcommon)
 BuildRequires:	pkgconfig(vulkan)
